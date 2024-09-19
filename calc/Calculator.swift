@@ -2,7 +2,7 @@
 //  Calculator.swift
 //  calc
 //
-//  Created by Jacktator on 31/3/20.
+//  Created by Yeanhee Park on 20/3/24.
 //  Copyright © 2020 UTS. All rights reserved.
 //
 
