@@ -2,7 +2,7 @@
 //  main.swift
 //  calc
 //
-//  Created by Jesse Clark on 12/3/18.
+//  Created by Yeanhee Park on 20/3/24.
 //  Copyright © 2018 UTS. All rights reserved.
 //
 
